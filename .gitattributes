@@ -1,1 +1,1 @@
-project-docs/* linguist-documentation
+*.javascript linguist-language = python
