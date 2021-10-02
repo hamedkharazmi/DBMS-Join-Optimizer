@@ -1,4 +1,4 @@
-# Calculating-the-optimal-SQLjoin-cost
+# SQLjoin-Optimizer
 
 **DB-Implementation project Using 'Dynamic programming'**
 
