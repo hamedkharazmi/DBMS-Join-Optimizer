@@ -222,6 +222,4 @@ reading_file.close()
 writing_file=open("files/variable.txt" ,'w')
 writing_file.write(output_buffer)
 
-writing_file.close()  
-
-    
+writing_file.close()
