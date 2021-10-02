@@ -1,6 +1,6 @@
 # Calculating-the-optimal-Join-cost
 
-**DB-Implementation Using 'Dynamic programming'**
+**DB-Implementation project Using 'Dynamic programming'**
 
 Find the best sort of SQL join statement and calculate the cost of optimal SQL join
 
