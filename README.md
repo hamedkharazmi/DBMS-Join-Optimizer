@@ -1,4 +1,4 @@
-# SQLjoin-Optimizer
+# DBMS-Join-Optimizer
 
 **DB-Implementation project Using 'Dynamic programming'**
 
